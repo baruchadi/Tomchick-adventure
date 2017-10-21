@@ -1,0 +1,288 @@
+
+nums.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lsbackground
+  rotate: false
+  xy: 1, 611
+  size: 1000, 400
+  orig: 1000, 400
+  offset: 0, 0
+  index: -1
+fucking
+  rotate: false
+  xy: 1, 159
+  size: 760, 450
+  orig: 760, 450
+  offset: 0, 0
+  index: -1
+toolbar
+  rotate: false
+  xy: 1, 93
+  size: 512, 64
+  orig: 512, 64
+  offset: 0, 0
+  index: -1
+gui
+  rotate: false
+  xy: 763, 353
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+keys
+  rotate: false
+  xy: 763, 95
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+platformone
+  rotate: false
+  xy: 1, 43
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+selectlevel
+  rotate: false
+  xy: 515, 89
+  size: 165, 68
+  orig: 165, 68
+  offset: 0, 0
+  index: -1
+slime
+  rotate: false
+  xy: 259, 27
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+baseplatform
+  rotate: false
+  xy: 1, 4
+  size: 121, 37
+  orig: 121, 37
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 389, 75
+  size: 117, 16
+  orig: 117, 16
+  offset: 0, 0
+  index: -1
+platform1
+  rotate: false
+  xy: 124, 11
+  size: 92, 30
+  orig: 92, 30
+  offset: 0, 0
+  index: -1
+ch0
+  rotate: false
+  xy: 682, 107
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 389, 43
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+ch1
+  rotate: false
+  xy: 451, 17
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 218, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+platformside
+  rotate: false
+  xy: 682, 77
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 389, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 716, 73
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+block
+  rotate: false
+  xy: 1003, 993
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+nums2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bottuns
+  rotate: false
+  xy: 1, 645
+  size: 727, 339
+  orig: 727, 339
+  offset: 0, 0
+  index: -1
+blocks
+  rotate: false
+  xy: 1, 131
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+signs
+  rotate: false
+  xy: 730, 728
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+dpad
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+nums3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lurker_sprite
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+nums4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pig
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+nums5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+playersprites
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+nums6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player_sprite
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+nums7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player_sprite1
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+nums8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+slime1
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+nums9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+whip_sprite
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+nums10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ground/middle
+  rotate: false
+  xy: 1, 1
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+ground/rightcorner
+  rotate: false
+  xy: 78, 1
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+ground/leftcorner
+  rotate: false
+  xy: 103, 2
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1

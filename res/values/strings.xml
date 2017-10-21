@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TomChick</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Dummy Button</string>
+    
+    <string name="newGame">New Game</string>
+    
+    <string name="worldEditor">Create A Level</string>
+    <string name="downloadLevel">Download New Levels</string>
+    
+    <string name="exitGame">Exit</string>
+    
+    <string name="Ver">DEVELOPER VERSION 0.0.4.6.2</string>
+
+</resources>

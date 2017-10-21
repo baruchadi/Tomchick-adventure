@@ -1,0 +1,74 @@
+nums.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 46, 15
+  size: 9, 11
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 2
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 46, 2
+  size: 9, 11
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 35, 15
+  size: 9, 11
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 35, 2
+  size: 9, 11
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 24, 15
+  size: 9, 11
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 24, 2
+  size: 9, 11
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 13, 15
+  size: 9, 11
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 13, 2
+  size: 9, 11
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 17
+  size: 9, 11
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
